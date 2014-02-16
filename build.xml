@@ -9,8 +9,8 @@
 
 	<property name="projdir" value="."/>
 	<property name="map.file" value="teux.ditamap"/>
-	<property name="outdir" value="../teux.github.io"/>
-    <property name="dita.temp.dir" value="../temp"/>
+	<property name="outdir" value="..${file.separator}teux.github.io"/>
+    <property name="dita.temp.dir" value="..${file.separator}temp"/>
     <property name="args.rellinks" value="all"/>
 
 	<target name="teux.site">
