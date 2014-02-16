@@ -9,7 +9,7 @@
 координатам, поскольку каждая линия имеет километровую отметку.
 Например, на рисунке показан узел сетки с координатами <codeph>N6190
 E7407</codeph>.</p>
-<floatFig><image href = "Insets\dakota\img10.gif" height="326" width="317"
+<floatFig><image href = "Insets/dakota/img10.gif" height="326" width="317"
 align="center" placement="break"  /></floatFig>
 <p>Если навигатор выдает текущую координату на сетке, по ней можно
 найти соответствующую точку на бумажной карте. Причем навигатор
@@ -83,7 +83,7 @@ Mercator (UTM). Ее отличие от предыдущей в том, что 
 <p>Датум служит для пересчета координат из какой-либо национальной
 системы в WGS-84 и обратно. По сути это набор корректирующих коэффициентов
 к общемировым координатам WGS-84.</p>
-<floatFig><image href = "Insets\dakota\1513.gif" height="240" width="160"
+<floatFig><image href = "Insets/dakota/1513.gif" height="240" width="160"
 align="left" placement="break"  /></floatFig>
 <p>А зачем приводить общемировые координаты к национальной системе?
 Выше упоминалась задача ориентироваться по бумажным генштабовским
@@ -109,7 +109,7 @@ NIMA усредненно более подходят для всей обшир
 от 16 до 20 м на территории России.</p>
 <p>Ниже на рисунках показаны значения по ГОСТ 51794-2001, в тексте
 также приведены значения NIMA.</p>
-<floatFig><image href = "Insets\dakota\177.gif" height="124" width="159"
+<floatFig><image href = "Insets/dakota/177.gif" height="124" width="159"
 align="left" placement="break"  /></floatFig>
 <p>Чтобы задать датум в Dakota, перейдите в меню <b>Настройка</b> > <b>Формат коорд.</b> > <b>Датум
 					карты</b> > <b>User</b> и введите коэффициенты:</p>
@@ -124,7 +124,7 @@ align="left" placement="break"  /></floatFig>
 систем расположены в условном центре масс планеты, но с небольшим
 смещением. В системе Pulkovo-42 эллипсоид носит имя ученого Красовского, который
 вычислил его параметры.</p>
-<floatFig float = "right"><image href = "Insets\dakota\55.gif" height="83"
+<floatFig float = "right"><image href = "Insets/dakota/55.gif" height="83"
 width="159" align="right" placement="break"  /></floatFig>
 <p>Перейдите в меню <b>Настройка</b> > <b>Формат коорд.</b> > <b>Сфероид карты</b> > <b>User
 					Spheroid</b> и введите еще два коэффициента (одинаковы для NIMA и ГОСТ):</p>
@@ -139,7 +139,7 @@ width="159" align="right" placement="break"  /></floatFig>
 в прямоугольные. Для этого перейдите в меню <b>Настройка</b> > <b>Формат
 коорд.</b> > <b>Формат коорд.</b> > <b>Сетка пользователя</b> > <b>UTM</b> и
 введите параметры:</p>
-<floatFig><image href = "Insets\dakota\70.gif" height="131" width="159"
+<floatFig><image href = "Insets/dakota/70.gif" height="131" width="159"
 align="left" placement="break"  /></floatFig>
 <p><b>Усл. смещение по долготе</b> = 7500000.0m (см. пояснение ниже)</p>
 <p><b>Усл. смещение по широте</b> = 0.0m</p>

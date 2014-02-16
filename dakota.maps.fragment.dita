@@ -11,7 +11,7 @@ MAPC2MAPC и разделить уже привязанное изображен
 В следующей инструкции рассказывается, как это сделать.</p>
 <ol><li><p>Запустите MAPC2MAPC и выберите пункт меню <b>File</b> > <b>Open calibration</b>.</p><p>Отображается
 стандартный диалог выбора файла (на следующем рисунке показан диалог
-в Windows 7).</p><fig><image href = "Insets\dakota\ge5.gif" height="368"
+в Windows 7).</p><fig><image href = "Insets/dakota/ge5.gif" height="368"
 width="573" align="left" placement="break"  /></fig></li>
 <li><p>Выберите тип файлов “Google Earth Overlay kml/kmz”.</p><p>Это
 позволит открыть файл <filepath>kmz</filepath>, созданный ранее
@@ -36,7 +36,7 @@ Calibrations</b>.</p><p>В каталоге <filepath>M:\Maps\Соловки\sol
 с <filepath>map</filepath>-файлом (в моем примере это <filepath>M:\Maps\Соловки\solovkikmz</filepath>)
 и откройте <filepath>map</filepath>-файл.</p><p>Отобразится сообщение
 о необходимости указать ассоциированный растровый файл, то есть
-саму растровую карту.</p><fig><image href = "Insets\dakota\ge6.gif"
+саму растровую карту.</p><fig><image href = "Insets/dakota/ge6.gif"
 height="118" width="293" align="left" placement="break"  /></fig><p>После
 нажатия <b>OK</b> откроется диалог выбора растрового файла.</p></li>
 <li><p>Перейдите в подкаталог <filepath>files</filepath> (в моем
@@ -50,5 +50,5 @@ Custom Map</b> и следуйте инструкциям из раздела <x
 карты в MAPC2MAPC</xref>.</p>
 <p>На следующем рисунке показано, как разделена на фрагменты карта
 Соловецких островов и исключены ненужные фрагменты.</p>
-<fig><image href = "Insets\dakota\ge7.gif" height="600" width="586"
+<fig><image href = "Insets/dakota/ge7.gif" height="600" width="586"
 align="center" placement="break"  /></fig></photoBody></photoFile>

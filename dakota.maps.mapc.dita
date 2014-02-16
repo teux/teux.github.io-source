@@ -34,7 +34,7 @@ height="422" width="510" align="left" placement="break"  /></fig></li>
 замусоривали основной каталог с картами.</note></li>
 <li><p>Перейдите в каталог, где расположены карты и файлы привязки
 и откройте нужный map-файл. </p><p>Отобразится диалог выбора датума
-карты.</p><fig><image href = "Insets\dakota\img11.gif" height="213"
+карты.</p><fig><image href = "Insets/dakota/img11.gif" height="213"
 width="312" align="left" placement="break"  /></fig></li>
 <li><p>Выберите в списке значение “PULKOVO 1942 RUSSIA” и нажмите <b>OK</b>.</p><p>Программа
 скорректирует координаты привязки, чтобы они соответствовали системе

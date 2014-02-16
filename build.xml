@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="build_all" default="teux.site" basedir=".">
+
+	<property environment="env"/>
+	<property name="toolkit_dir" value="${env.DITA_HOME}"/>
+	<property name="clean.temp" value="no"/>
+    <property name="args.draft" value="no"/>
+    <property name="args.indexshow" value="no"/>
+
+	<property name="projdir" value="."/>
+	<property name="map.file" value="teux.ditamap"/>
+	<property name="outdir" value="../teux.github.io"/>
+    <property name="dita.temp.dir" value="../temp"/>
+    <property name="args.rellinks" value="all"/>
+
+	<target name="teux.site">
+		<ant antfile="${toolkit_dir}/build.xml" target="init">
+			<property name="args.input" value="${projdir}/${map.file}"/>
+			<property name="output.dir" value="${outdir}/"/>
+			<property name="transtype" value="teux.site"/>
+			<property name="dita.ext" value=".dita"/>
+			<property name="args.csspath" value="css"/>
+			<property name="args.copycss" value="yes"/>
+		</ant>
+	</target>
+
+	<target name="teux.file">
+		<property name="site.outdir" value="teux.site"/>
+		<ant antfile="${toolkit_dir}/build.xml" target="init">
+			<property name="args.input" value="${projdir}/${topic.file}"/>
+			<property name="output.dir" value="${outdir}/"/>
+			<property name="transtype" value="teux.file"/>
+			<property name="dita.ext" value=".dita"/>
+			<property name="args.copycss" value="no"/>
+		</ant>
+	</target>
+</project>
