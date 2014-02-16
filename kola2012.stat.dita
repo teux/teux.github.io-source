@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="kola2012.stat">
+  <title>Трек. Статистика. Легенда</title>
+  <photoBody>
+    <p>Трек GPX можно скачать, нажав на изображение.  Изучать трек удобно в программах <xref href="http://teux.ru/dakota.maps.sas.html" scope="external">SAS.Планета</xref> и <xref href="http://teux.ru/dakota.maps.basecamp.html" scope="external">BaseCamp</xref>.</p>
+    <p><xref href="http://teux.ru/Insets/gpx/jokanga12.zip" scope="external">
+        <image href="http://teux.ru/images/track.png"/>
+      </xref></p>
+    <p>Общая протяженность с радиалками   670 км. Материковая часть 330 км с волоком на Рову, морская — 270 км в опасном районе Белого моря с приливами 5 м, течениями, сулоями и неустойчивой погодой. Восьмерка в  конце трека — радиалка по реке Сосновка и тундре около 70 км.</p>
+    <storySection>
+      <title>Обзорный трек</title>
+      <everyTrail tripId="1989246"/>
+    </storySection>
+    <storySection>
+      <title>Легенда</title>
+      <p>Ловозеро — р. Курга — оз. Яловое — оз. Ефимозеро — оз. Ниж Леньявр — руч.
+Леньявр — оз. Сред Леньявр — р. Рова — оз. Кальмозеро — р. Йоканьга — Баренцево Море — м. Святой Нос — Белое море  — о. Лумбовский — о. Сосновец — село  Сосновка.</p>
+    </storySection>
+  </photoBody>
+</photoFile>

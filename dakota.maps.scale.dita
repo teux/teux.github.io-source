@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. -->
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="dakota.maps.scale">
+  <title>Карты в разных масштабах</title>
+  <shortdesc>Расположение карт одна над другой с помощью параметра drawOrder</shortdesc>
+  <photoBody>
+    <storySection>
+      <floatFig float="right">
+        <image id="image_xdk_pus_db" href="Insets/dakota/466.png"/>
+      </floatFig>
+      <p>В Dakota можно загружать растровые карты одной и той же местности в разных масштабах и
+    располагать их одна над другой. Это позволяет покрывать обширную территорию картой большого
+    масштаба, например 1:500000, и уточнять отдельные участки с помощью более детализированных
+    карт 1:200000 или 1:100000.</p>
+      <p>Порядок отрисовки карт, то есть их взаимное положение одна над другой, задают до загрузки карт
+    в навигатор. Для этого нужно войти в архив с картой (файл с раширением
+    <codeph>kmz</codeph>), открыть для редактирования файл <codeph>doc.kml</codeph> и указать
+    порядок отрисовки в параметре <codeph>drawOrder</codeph>.</p>
+      <p>Вот как это делается с помощью архиватора 7z.</p>
+      <ol id="ol_rme_svs_db">
+        <li>
+          <p>Щелкните правой кнопкой мыши по архиву <codeph>kmz</codeph> и выберите пункт меню <b>7-Zip</b> &gt;
+       <b>Открыть архив</b>. Отобразится содержимое архива.</p>
+          <fig>
+            <image id="image_lyr_mvs_db" href="Insets/dakota/openarch.png" align=""/>
+          </fig>
+        </li>
+        <li>Выберите в архиве файл <codeph>doc.kml</codeph> и нажмите клавишу <b>F4</b>. Файл будет открыт для редактирования.</li>
+        <li>
+          <p>Найдите в файле параметр <codeph>drawOrder</codeph> и задайте в нем значение от 50 до
+      100. Чем больше значение, тем выше располагается карта. Так, карта с
+       <codeph>drawOrder=70</codeph> перекрывает карты со значениями этого параметра меньше
+      70.</p>
+          <fig>
+            <image id="image_hoq_ows_db" href="Insets/dakota/draworder.png"/>
+          </fig>
+        </li>
+        <li>Сохраните и закройте файл <codeph>doc.kml</codeph>. Архиватор 7z спросит о необходимости обновить файл в архиве. Ответьте <b>OK</b>.</li>
+      </ol>
+      <p>Теперь можно загружать карту в навигатор. У всех загруженных карт параметры
+     <codeph>drawOrder</codeph> должны отличаться, иначе навигатор сообщит об ошибке.</p>
+    </storySection>
+  </photoBody>
+</photoFile>

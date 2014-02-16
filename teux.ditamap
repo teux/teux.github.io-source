@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa4="http://dita.oasis-open.org/architecture/2005/" xml:lang="ru-ru" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:bookmap.xsd:1.2">
+  <title>Фотоальбом</title>
+  <bookmeta>
+    <keywords>
+      <keyword>Андрей Коперский</keyword>
+      <keyword>фотоальбом</keyword>
+    </keywords>
+  </bookmeta>
+  <part navtitle="Походы" href="index.dita" locktitle="yes"/>
+  <part navtitle="Водные" href="river.dita" type="topic">
+    <chapter navtitle="Рессета — Жиздра" href="resseta.dita" type="photoFile"/>
+    <chapter navtitle="Нерская" href="nerskaja.dita" type="photoFile">
+      <topicref navtitle="День 1" href="nerskaja1.dita" type="photoFile"/>
+      <topicref navtitle="День 2" href="nerskaja2.dita" type="photoFile"/>
+      <topicref navtitle="День 3" href="nerskaja3.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Осуга" href="osuga_.dita" type="photoFile">
+      <topicref navtitle="Река Осуга" href="osuga0.dita" type="photoFile"/>
+      <topicref navtitle="День 1" href="osuga1.dita" type="photoFile"/>
+      <topicref navtitle="День 2" href="osuga2.dita" type="photoFile"/>
+      <topicref navtitle="День 3" href="osuga3.dita" type="photoFile"/>
+      <topicref navtitle="День 4" href="osuga4.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Калга — Белое море" href="calga_.dita" type="photoFile">
+      <topicref navtitle="Немного видео" href="calga_video.dita" type="photoFile"/>
+      <topicref navtitle="День 1" href="calga1.dita" type="photoFile"/>
+      <topicref navtitle="День 2" href="calga2.dita" type="photoFile"/>
+      <topicref navtitle="День 3" href="calga3.dita" type="photoFile"/>
+      <topicref navtitle="День 4" href="calga4.dita" type="photoFile"/>
+      <topicref navtitle="День 5" href="calga5.dita" type="photoFile"/>
+      <topicref navtitle="День 6" href="calga6.dita" type="photoFile"/>
+      <topicref navtitle="День 7" href="calga7.dita" type="photoFile"/>
+      <topicref navtitle="День 8" href="calga8.dita" type="photoFile"/>
+      <topicref navtitle="День 9" href="calga9.dita" type="photoFile"/>
+      <topicref navtitle="День 10" href="calga10.dita" type="photoFile"/>
+      <topicref navtitle="День 11" href="calga11.dita" type="photoFile"/>
+      <topicref navtitle="День 12-13" href="calga12.dita" type="photoFile"/>
+      <topicref navtitle="День 14" href="calga14.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Рессета — Жиздра" href="resseta09.dita" type="photoFile"/>
+    <chapter navtitle="Поведь" href="poved.dita" type="photoFile">
+      <topicref navtitle="Как это было" href="poved1.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Винча — Белое море" href="vincha.dita" type="photoFile">
+      <topicref navtitle="День 1" href="vincha1.dita" type="photoFile"/>
+      <topicref navtitle="День 2" href="vincha2.dita" type="photoFile"/>
+      <topicref navtitle="День 3" href="vincha3.dita" type="photoFile"/>
+      <topicref navtitle="День 4" href="vincha4.dita" type="photoFile"/>
+      <topicref navtitle="День 5" href="vincha5.dita" type="photoFile"/>
+      <topicref navtitle="День 6" href="vincha6.dita" type="photoFile"/>
+      <topicref navtitle="День 7" href="vincha7.dita" type="photoFile"/>
+      <topicref navtitle="День 8" href="vincha8.dita" type="photoFile"/>
+      <topicref navtitle="День 9" href="vincha9.dita" type="photoFile"/>
+      <topicref navtitle="День 10" href="vincha10.dita" type="photoFile"/>
+      <topicref navtitle="День 11" href="vincha11.dita" type="photoFile"/>
+      <topicref navtitle="День 12" href="vincha12.dita" type="photoFile"/>
+      <topicref navtitle="День 13" href="vincha13.dita" type="photoFile"/>
+      <topicref navtitle="День 14" href="vincha14.dita" type="photoFile"/>
+      <topicref navtitle="День 15" href="vincha15.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Киржач" href="kirzhach09.dita" type="photoFile"/>
+    <chapter navtitle="Щегринка" href="shegrinka.dita" type="photoFile"/>
+    <chapter navtitle="Корёжечная" href="koprozhechna.dita" type="photoFile"/>
+    <chapter navtitle="Граничная" href="granichnaja.dita" type="photoFile">
+      <topicref navtitle="Как это было" href="granichnaja1.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Вуокса" href="vuoksa.dita" type="photoFile"/>
+    <chapter navtitle="Белое море 2010" href="whitesea2010.dita" type="photoFile">
+      <topicref navtitle="Статистика" href="whitesea2010.stat.dita" type="photoFile"/>
+      <topicref navtitle="Фотографии" href="whitesea2010.photo.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Тудовка — Волга" href="tutovka.dita" type="photoFile"/>
+    <chapter navtitle="Лопасня — Ока" href="lopasna.dita" type="photoFile"/>
+    <chapter navtitle="Полометь" href="polomet.dita" type="photoFile"/>
+    <chapter navtitle="Вуокса 2012" href="vuoksa2012.dita" type="photoFile"/>
+    <chapter navtitle="Поля" href="pola2012.dita" type="photoFile"/>
+    <chapter navtitle="Созь" href="sozz.dita" type="photoFile"/>
+  </part>
+  <part navtitle="Кольский п-ов" href="kola.dita" type="topic">
+    <chapter navtitle="Стрельна" href="kola2011.dita" type="photoFile">
+      <topicref navtitle="Фотки" href="kola2011.foto.dita"/>
+    </chapter>
+    <chapter navtitle="Йоканьга" href="kola2012.dita" type="photoFile">
+      <topicref navtitle="Статистика" href="kola2012.stat.dita"/>
+      <topicref navtitle="По рекам" href="kola2012.river.dita"/>
+      <topicref navtitle="По морю" href="kola2012.sea.dita"/>
+    </chapter>
+    <chapter navtitle="Восточная Лица" href="kola2013.dita" type="photoFile">
+      <topicref navtitle="Статистика" href="kola2013.stat.dita"/>
+      <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
+    </chapter>
+  </part>
+  <part navtitle="Пешие" href="afoot.dita" type="topic">
+    <chapter navtitle="Весенний ПВД" href="pvd180409.dita" type="photoFile"/>
+    <chapter navtitle="ПВД по болотам" href="pvd190909.dita" type="photoFile"/>
+    <chapter navtitle="ПВД “Первый снег”" href="pvd071109.dita" type="photoFile"/>
+    <chapter navtitle="Ночной ПВД" href="pvd141109.dita" type="photoFile"/>
+    <chapter navtitle="ММБ 2010" href="mmb10.dita" type="photoFile"/>
+  </part>
+  <part navtitle="Лыжные" href="skiing.dita" type="topic">
+    <chapter navtitle="Ночевка в снежном доме" href="chis-lesodol.dita" type="photoFile"/>
+    <chapter navtitle="Морозный ПВД" href="pvd230110.dita" type="photoFile"/>
+    <chapter navtitle="ПВД “Зимняя свобода”" href="pvd300110.dita" type="photoFile"/>
+    <chapter navtitle="Полуночный ПВД" href="pvd060210.dita" type="photoFile"/>
+    <chapter navtitle="Западные Саяны" href="sajan2010.dita" type="photoFile"/>
+  </part>
+  <part navtitle="Автомобильные" href="auto.dita" type="topic">
+    <chapter navtitle="Лапландия" href="lapland.dita" type="photoFile">
+      <topicref navtitle="Дорога" href="lapland.transfer.dita" type="photoFile"/>
+      <topicref navtitle="Коттедж" href="lapland.cabin.dita" type="photoFile"/>
+      <topicref navtitle="Снежная гостиница" href="lapland.snowvillage.dita" type="photoFile"/>
+      <topicref navtitle="Активный отдых" href="lapland.active.dita" type="photoFile"/>
+      <topicref navtitle="Снегоходы" href="lapland.snowmobile.dita" type="photoFile"/>
+      <topicref navtitle="Леви" href="lapland.levi.dita" type="photoFile"/>
+      <topicref navtitle="Юлляс" href="lapland.yllas.dita" type="photoFile"/>
+      <topicref navtitle="Рованиеми" href="lapland.rovaniemi.dita" type="photoFile"/>
+      <topicref navtitle="Расходы" href="lapland.charge.dita" type="photoFile"/>
+    </chapter>
+  </part>
+  <part navtitle="Прочие" href="camping.dita" type="topic">
+    <chapter navtitle="Кенозерский парк" href="knp.dita" type="photoFile">
+      <topicref navtitle="Охотничья заимка" href="lekshmozero.dita" type="photoFile"/>
+      <topicref navtitle="Кенозеро" href="kenozero.dita" type="photoFile"/>
+    </chapter>
+    <chapter navtitle="Скитулец 2009" href="skitul2009.dita" type="photoFile"/>
+    <chapter navtitle="Лиза в Борках" href="borki-liza.dita" type="photoFile"/>
+    <chapter navtitle="Отдых на озере Охват" href="ohvat.dita" type="photoFile"/>
+    <chapter navtitle="Московское море" href="mossea09.dita" type="photoFile"/>
+    <chapter navtitle="Тур по Европе (Валентина Сергеевна)" href="evila.dita" type="photoFile"/>
+  </part>
+  <part navtitle="Полезности" href="usefull.dita" type="topic">
+    <chapter navtitle="Сублимированное мясо" href="sublimat.dita" type="photoFile"/>
+    <chapter navtitle="Garmin Dakota 20" href="dakota.dita" type="photoFile">
+      <topicref navtitle="Загадочный Datum и прямоугольная сетка" href="dakota.datum.dita" type="photoFile"/>
+      <topicref navtitle="Растровые карты" href="dakota.maps.dita" type="photoFile">
+        <topicref navtitle="Лучший способ" href="dakota.maps.basecamp.dita" type="photoFile"/>
+        <topicref navtitle="SAS.Планета" href="dakota.maps.sas.dita" type="photoFile"/>
+        <topicref navtitle="Подготовка карты в MAPC2MAPC" href="dakota.maps.mapc.dita" type="photoFile"/>
+        <topicref navtitle="Подготовка карты в Google Earth" href="dakota.maps.google.dita" type="photoFile"/>
+        <topicref navtitle="Фрагментирование карты, полученной в Google Earth" href="dakota.maps.fragment.dita" type="photoFile"/>
+        <topicref navtitle="Карты в разных масштабах" href="dakota.maps.scale.dita" type="photoFile"/>
+      </topicref>
+      <topicref navtitle="Векторная карта “Дороги России. ТОПО”" href="dakota.mapsource.dita" type="photoFile"/>
+    </chapter>
+  </part>
+</bookmap>

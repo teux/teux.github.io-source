@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "vincha"
+    >
+<title>Винча — Белое море</title>
+<titlealts><searchtitle>Винча — Белое море</searchtitle></titlealts>
+<shortdesc>Поход по реке Винча и Княжегубскому водохранилищу с выходом
+в Кандалакшскую губу Белого моря с 30 июля по 17 августа 2009 г.</shortdesc>
+<prolog><critdates><created date = "1.9.2009"/></critdates>
+<metadata><keywords><keyword>Винча</keyword><keyword>Белое море</keyword>
+<keyword>поход</keyword></keywords></metadata></prolog>
+<photoBody><p>Пройдено 120 км за 10 ходовых дней, из них: по реке
+20 км за 4 дня, по открытой воде 100 км за 6 дней. Для отдыха использованы
+4 дневки и 2 полудневки. Минимальное пройденное растояние за день
+— 1.5 км, максимальное — 22 км.</p>
+<note>Протяженность Винчи - 20 км, перепад высоты - 74 метра. На
+реке около 20 порогов, в том числе непроходимые.</note>
+<photoSection ><title>Состав участников</title>
+<fig><title>Маша и Таня</title><image href = "http://photo.qip.ru/photo/kapsky/115462646/middle/130606633.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Оля и Саша</title><image href = "http://photo.qip.ru/photo/kapsky/115454405/middle/130244923.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Саша и Люба с детьми Ильей и Машей</title><image href
+= "http://photo.qip.ru/photo/kapsky/115454405/middle/130245345.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Андрей и Света</title><image href = "http://photo.qip.ru/photo/kapsky/115462646/middle/130606468.jpg"
+height="192" width="251" align="center" placement="break"  /></fig></photoSection>
+<section><title>Нитка маршрута</title><p>Тикшозеро — исток Винчи
+— Пайозеро — оз. Каменное — Челозеро — устье Винчи — Нотозеро —
+пр. Тюлле — оз. Лопское — пр. Лопская — Ковдозеро — Травяная губа
+— пос. Зеленоборский — губа Княжая — Кандалакшская губа.</p><object
+    height = "400" width = "600"><desc>GoogleMap: Винча – Зеленоборский</desc>
+<param name = "EveryTrail" value = "382215"/></object></section></photoBody></photoFile>

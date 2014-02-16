@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "lapland"
+    >
+<title>В Лапландию на машинах</title>
+<shortdesc>Поездка в северную Финляндию с 28.12.09 по 10.01.10</shortdesc>
+<prolog><critdates><created date = "13.1.2010"/></critdates>
+<metadata><keywords><keyword>финляндия</keyword><keyword>машина</keyword>
+<keyword>коттедж</keyword><keyword>юлляс</keyword><keyword>леви</keyword>
+<keyword>рованиеми</keyword><keyword>поездка</keyword></keywords></metadata></prolog>
+<photoBody><photoSection base = "slideshow"><fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227769.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227788.jpg"
+height="170" width="250" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227779.jpg"
+height="170" width="250" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227792.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134232248.jpg"
+height="170" width="250" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227796.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134229643.jpg"
+height="250" width="190" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227797.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227759.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><image href = "http://photo.qip.ru/photo/kapsky/115629328/middle/134227756.jpg"
+height="192" width="251" align="center" placement="break"  /></fig></photoSection></photoBody></photoFile>

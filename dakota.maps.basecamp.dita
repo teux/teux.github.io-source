@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="dakota.maps.basecamp">
+  <title>Лучший способ: BaseCamp + SAS.Планета</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>BaseCamp</keyword>
+        <keyword>SAS.Планета</keyword>
+        <keyword>Garmin</keyword>
+        <keyword>Dakota</keyword>
+      </keywords>
+    </metadata>
+  </prolog>
+  <photoBody>
+    <p>Вы читаете последний из написанных разделов о растровых картах для Dakota (сентябрь 2012). И так получается, что описываемая связка BaseCamp + SAS.Планета делает малоинтересными прочие способы подготовки и загрузки растровых карт в навигатор.</p>
+    <storySection>
+      <title>Вопрос – ответ</title>
+      <p><b>В</b>: — Где скачать BaseCamp<b>?</b></p>
+      <p>О: Бесплатно на сайте Garmin по этой  <xref href="http://www.garmin.ru/support/basecamp.php" scope="external">ссылке</xref>.</p>
+      <p><b>В</b>: — Для чего   <xref href="dakota.maps.sas.dita"/><b>?</b></p>
+      <p>О:  Чтобы бесплатно загружать все мыслимые спутниковые снимки, листы генштаба, атласы и сохранять их в формате kmz. Программу можно бесплатно скачать с сайта <xref href="http://sasgis.ru/" scope="external">sasgis.ru</xref>.</p>
+      <p><b>В</b>: — Не слышал про kmz... что это<b>?</b></p>
+      <p>О:  Это файл с расширением <filepath>.kmz</filepath>, а имя может быть любое, например <filepath>vuoksa.kmz</filepath>. Вообще это просто архив, который можно распаковать архиватором zip или 7-zip.</p>
+      <p><b>В</b>: — И что<b>?</b></p>
+      <p>О: Внутри kmz находится растровая карта для Дакоты, например космоснимок, лист генштаба или атласа. Запишешь kmz на MicroSD, и можно просматривать карту на экране навигатора и ориентироваться по ней.</p>
+      <p><b>В</b>: — Для чего нужен BaseCamp, если SAS.Планета делает kmz<b>?</b></p>
+      <p>О: Для Дакоты не всегда подходит этот kmz. Зато если открыть его в BaseCamp, можно измерять расстояния на карте, рисовать треки, ставить маршрутные точки, а  затем одним движением отправить все это вместе с картой в навигатор.</p>
+      <p>Еще с помощью  BaseCamp можно просматривать векторную карту &quot;Дороги России. Топо&quot; (поставляется на MicroSD). </p>
+    </storySection>
+    <storySection>
+      <title>Как создать kmz</title>
+      <p>Об этом написано в разделе   <xref href="dakota.maps.sas.dita"/>.</p>
+    </storySection>
+    <storySection>
+      <title>Как импортировать kmz в BaseCamp</title>
+      <p>В BaseCamp объекты пользователя разложены в папки и списки. Этот способ упорядочивания показан на рисунке.</p>
+      <fig>
+        <image href="Insets/dakota/bc1.png" align="center"/>
+      </fig>
+      <ol>
+        <li>
+          <p>Создайте новый список или отметьте существующий.</p>
+          <p>На рисунке отмечен список «genshtab». Его содержимое показано в нижней панели.</p>
+        </li>
+        <li>Нажмите <codeph>Ctrl+I</codeph>.</li>
+        <li>В диалоге выберите импортируемый kmz.</li>
+      </ol>
+    </storySection>
+    <storySection>
+      <title>Как отправить растровую карту в навигатор</title>
+      <ol>
+        <li>
+          <p>Подключите навигатор к компьютеру и убедитесь, что он виден в BaseCamp.</p>
+          <note type="note">Если навигатор не виден, попробуйте подключить его следующим образом. Выньте батарейки. Нажмите и <b>удерживайте</b> кнопку включения. Подсоедините кабель USB, не отпуская кнопку включения. Держите нажатой кнопку полминуты или пока не будет установлен драйвер и навигатор не появится в списке устройств.</note>
+        </li>
+        <li>Отметьте список объектов, в котором расположена растровая карта.</li>
+        <li>Нажмите правой кнопкой мыши на имя импортированной карты.</li>
+        <li>
+          <p>Выберите пункт контекстного меню <uicontrol>Отправить на...</uicontrol></p>
+          <p>Отображается список <uicontrol>Выбрать пункт назначения</uicontrol>.</p>
+          <image href="Insets/dakota/bc2.png" align="center"/>
+        </li>
+        <li>В группе <uicontrol>Устройства</uicontrol> выберите «Встроенная память» или «Данные пользователя» и нажмите <uicontrol>OK</uicontrol>.</li>
+      </ol>
+    </storySection>
+  </photoBody>
+</photoFile>

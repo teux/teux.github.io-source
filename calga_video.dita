@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="calga.video">
+  <title>Немного видео</title>
+  <shortdesc>Несколько видеороликов, снятых Сергеем</shortdesc>
+  <photoBody>
+    <photoSection phsize="large" >
+      <object height="344" type="application/x-shockwave-flash" width="425">
+        <desc>Дневка на Пиртозере</desc>
+        <param name="movie"
+               value="http://www.youtube.com/v/QR3vGsD3u1E&amp;hl=en&amp;fs=1"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+      </object>
+      <object height="344" type="application/x-shockwave-flash" width="425">
+        <desc>Кто-то дернул стоп-кран</desc>
+        <param name="movie"
+               value="http://www.youtube.com/v/9_mLWuy1c8k&amp;hl=en&amp;fs=1"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+      </object>
+      <object height="344" type="application/x-shockwave-flash" width="425">
+        <desc>Вторя ступень порога Грива - проходит катамаран</desc>
+        <param name="movie"
+               value="http://www.youtube.com/v/Y6QNuscY7pY&amp;hl=en&amp;fs=1"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+      </object>
+      <object height="344" type="application/x-shockwave-flash" width="425">
+        <desc>Вторая ступень порога Грива - Андрей и Света</desc>
+        <param name="movie"
+               value="http://www.youtube.com/v/Hsv2azy0_Bs&amp;hl=en&amp;fs=1"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+      </object>
+      <object height="344" type="application/x-shockwave-flash" width="425">
+        <desc>Катамаран выходит из под низкого мостика</desc>
+        <param name="movie"
+               value="http://www.youtube.com/v/-guOE0k0EMQ&amp;hl=en&amp;fs=1"/>
+        <param name="allowFullScreen" value="true"/>
+        <param name="allowscriptaccess" value="always"/>
+      </object>
+    </photoSection>
+  </photoBody>
+</photoFile>

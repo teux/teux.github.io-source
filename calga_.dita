@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "calga_"
+    >
+<title>Калга — Белое море</title>
+<shortdesc>2008 с 20.07 по 1.08. Водный поход по р. Калга и Белому
+  морю.</shortdesc>
+<prolog><critdates><created date = "1.9.2008"/></critdates>
+<metadata><keywords><keyword>Калга</keyword><keyword>Белое море</keyword></keywords></metadata></prolog>
+<photoBody><section><p>Наиболее интересные фотографии можно посмотреть
+в виде <xref
+    href = "http://flickr.com/photos/31885368@N08/sets/72157608537973722/show/"
+    scope = "external">слайд-шоу</xref></p></section>
+<photoSection  phsize = "middle"><title>Состав
+группы</title>
+<fig><title>Саша и Антон</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373135.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Сергей и Надя</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373144.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Максим и Катя</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373153.jpg"
+height="251" width="192" align="center" placement="break"  /></fig>
+<fig><title>Таня и Маша</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373115.jpg"
+height="251" width="192" align="center" placement="break"  /></fig>
+<fig><title>Олег и Настя</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373133.jpg"
+height="251" width="192" align="center" placement="break"  /></fig>
+<fig><title>Галя и Никита</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/124251390.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Аня</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373313.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Андрей и Света</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/121373151.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Саша и Люба с Ильей и Машей</title><image href = "http://photo.qip.ru/photo/kapsky/115208610/middle/124252111.jpg"
+height="192" width="251" align="center" placement="break"  /></fig></photoSection>
+<photoSection  phsize = "small"><title>Карты района
+путешествия</title>
+<fig><title>Калга от Энгозера до Калгалакшской губы</title><image
+href = "http://photo.qip.ru/photo/kapsky/115143767/middle/119419073.jpg"
+height="180" width="250" align="center" placement="break"  /></fig>
+<fig><title>Калгалакшская губа</title><image href = "http://photo.qip.ru/photo/kapsky/115143767/middle/119388063.jpg"
+height="251" width="176" align="center" placement="break"  /></fig>
+<fig><title>Кузема</title><image href = "http://photo.qip.ru/photo/kapsky/115143767/middle/119388058.jpg"
+height="178" width="250" align="center" placement="break"  /></fig></photoSection></photoBody></photoFile>

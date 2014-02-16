@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "nerskaja.dita"
+    >
+<title>Нерская</title>
+<shortdesc>2008 май. Поход выходного дня по реке Нерская (Московская
+  область).</shortdesc>
+<prolog><critdates><created date = "10.5.2008"/></critdates>
+<metadata><keywords><keyword>Нерская</keyword></keywords></metadata></prolog>
+<photoBody><photoSection  phsize = "large"><fig><image
+href = "http://photo.qip.ru/photo/kapsky/115082500/middle/117646188.gif"
+height="165" width="251" align="center" placement="break"  /></fig></photoSection>
+<section><p>За фотографии спасибо <xref
+    href = "http://photo.qip.ru/photo/kapsky/115082551/117626791.jpg"
+    scope = "external">Ане</xref></p></section></photoBody></photoFile>

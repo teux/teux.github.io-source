@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="kola2013.stat">
+  <title>Трек. Статистика. Легенда</title>
+  <photoBody>
+    <p>Подробный трек Восточная Лица — Баренцево море в формате GPX можно скачать, нажав на изображение.  Изучать трек удобно в программах <xref href="http://teux.ru/dakota.maps.sas.html" scope="external">SAS.Планета</xref> и <xref href="http://teux.ru/dakota.maps.basecamp.html" scope="external">BaseCamp</xref> (с помощью BaseCamp можно редактировать трек и загружать маршрутные точки в навигаторы Garmin).</p>
+    <p><xref href="/Insets/gpx/v-litsa.zip" scope="external">
+        <image href="http://teux.ru/images/track.png"/>
+      </xref></p>
+    <p>Общая протяженность 390 км. Активными способами передвижения пройдено 372 км (начальный отрезок 18 км по Ловозеру и Курге — на моторке).</p>
+    <p>Маршрут делится на внутриматериковую и морскую части: по материку от Ловозера до моря  230 км, по  Баренцеву морю вдоль Мурманского берега  160 км.</p>
+    <p/>
+    <storySection>
+      <title>Обзорный трек</title>
+      <everyTrail tripId="2266681"/>
+    </storySection>
+    <storySection>
+      <title>Легенда</title>
+      <p>Ловозеро — р. Курга — оз. Яловое — оз. Ефимозеро — оз. Ниж Леньявр — руч.
+Леньявр — оз. Сред Леньявр — оз. Верхний Леньявр — оз. Янозеро — оз. Аннозеро — оз. Поросозеро — оз. Лице — р. Восточная Лица — оз. Спасительны-Ты — оз. Восточная Лица — губа Восточная Лица — зап. Семь островов — пос. Дальние Зеленцы — пос. Териберка.</p>
+    </storySection>
+  </photoBody>
+</photoFile>

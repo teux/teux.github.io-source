@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "sublimat"
+    >
+<title>Сублимированное мясо</title>
+<shortdesc>Выпаривание мяса в жире для уменьшения веса</shortdesc>
+<prolog><critdates><created date = "11.3.2010"/></critdates>
+<metadata><keywords><keyword>сублимат</keyword><keyword>самодельное
+сублимированное мясо</keyword></keywords></metadata></prolog>
+<photoBody><p>Впервые попробовал изготовить сублимированное мясо
+для таежно-горного похода по рецептам <xref  href = "http://www.skitalets.ru/equipment/food/sub_meat/index.htm"
+scope = "external">С. Шендеровского</xref> и <xref  href = "http://www.mountain.ru/useful/equipment/2001/Lebedev_pitanie/index.shtml"
+scope = "external">А. Лебедева</xref>. Получилось очень хорошо.
+Внес в известный рецепт небольшое дополнение и привожу описание
+процесса в фотографиях.</p>
+<section><title>Рецептура</title><p>Постную говядину в количестве
+6 кг выпаривал двумя партиями. В первой партии использовано свиное
+сало, во второй — говяжий жир. Сало проще топить и оно имеет меньший
+отход. Однако жир, как мне показалось, придает конечному блюду с
+сублимированным мясом лучший вкус.</p><ol><li><p>Характеристики
+первой партии:</p><ul><li>говядина — 2,2 кг;</li>
+<li>свиное сало — 1,2 кг (после перетопки — 0,8 кг).</li></ul></li>
+<li><p>Характеристики второй партии:</p><ul><li>говядина — 3,8 кг;</li>
+<li>говяжий жир — 3,6 кг (после перетопки — 1,6 кг).</li></ul></li></ol><p>В
+результате получилось 3,8 кг готового продукта, состоящего примерно из
+2,3 кг жира (0,8 + 1,6 - потери) и 1,5 кг сублимированного мяса
+(то есть мясо полегчало в 4 раза). Продукт был расфасован в 15 контейнеров
+и использован для питания 4 человек в течение 15 дней.</p><p>Ингредиенты
+покупал в ларьке возле метро. Каждый день туда привозят свежие куски
+свинины и говядины, с которых срезают сало и жир. Говядину продают
+по 315 руб за кг, а сало и жир уходит в качестве субпродуктов по
+30 руб и 25 руб соответственно.</p></section>
+<section><title>Техпроцесс</title><p>Ниже привожу описание техпроцесса
+в фотографиях. Основное отличие от известного рецепта в том, что
+соль добавлял лишь на финальной стадии выпаривания (примерно за
+час до окончания). На мой взгляд, соль делает мясо более жестким.
+Второе отличие заключается в предварительном тушении мяса в течении
+20 мин. При этом мясо дает много сока, который нужно просто слить.
+Тушение размягчает мясо, а быстрое избавление от значительного количества
+влаги ускоряет дальнейшее выпаривание. </p></section>
+<photoSection phsize = "large"><fig><title>Сало измельчить в блендере
+или на мясорубке</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546055.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Топить на медленном огне, сливая жир и отжимая шкварки
+(около 1 часа)</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546068.jpg"
+height="193" width="251" align="center" placement="break"  /></fig>
+<fig><title>Жир можно заготовит заранее и заморозить...</title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546155.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>...а потом растопить</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546173.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Мясо нарезать кубиками одинакового размера</title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546145.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Мои кубики были с фалангу мизинца, но можно уменьшать
+размер для ускорения выпаривания</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546061.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Потушить мясо 20 мин в кастрюле или в пароварке</title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546149.jpg"
+height="251" width="192" align="center" placement="break"  /></fig>
+<fig><title>Так выглядит мясо в пароварке через 20 мин </title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546177.jpg"
+height="251" width="192" align="center" placement="break"  /></fig>
+<fig><title>Эффективнее и проще тушить традиционно в кастрюле (добавить полстакана
+воды)</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546167.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Залить мясо жиром и варить на медленном огне, помешивая
+через каждые 20 мин</title><image href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546185.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Постепенно мясо и бульон темнеют</title><image href
+= "http://photo.qip.ru/photo/kapsky/115691388/middle/135546193.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Так выглядит продукт через 5 с половиной часов варки</title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546196.jpg"
+height="192" width="251" align="center" placement="break"  /></fig>
+<fig><title>Изготовить контейнеры из фольги и засыпать в них мясо</title><image
+href = "http://photo.qip.ru/photo/kapsky/115691388/middle/135546088.jpg"
+height="192" width="251" align="center" placement="break"  /></fig></photoSection>
+<section><p>При засыпке мяса в контейнеры следует слегка тромбовать
+кусочки, чтобы избавиться от пустот между ними. В пустоты затекает
+много жира, в результате чего состав продукта обедняется, а жира
+может не хватить на заливку. Оставшийся жир нужно залить в контейнеры,
+чтобы он полностью покрыл мясо.</p></section></photoBody></photoFile>

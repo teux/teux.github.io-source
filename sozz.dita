@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="sozz">
+  <title>Созь</title>
+  <shortdesc>ПВД по реке Созь 25 — 26 мая 2013 г.</shortdesc>
+  <prolog>
+    <critdates>
+      <created date="27.05.2013"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <keyword>Созь</keyword>
+        <keyword>Оршинский мох</keyword>
+      </keywords>
+    </metadata>
+  </prolog>
+  <photoBody>
+    <p>Протяженность  75 км через болото Оршинский мох по реке Созь до Конаково.  Трек в формате GPX можно скачать, нажав на изображение.  Изучать трек удобно в программах <xref href="http://teux.ru/dakota.maps.basecamp.html" scope="external">BaseCamp</xref>, OziExplorer, Google Earth.</p>
+    <p><xref href="http://teux.ru/Insets/gpx/sozz.zip" scope="external">
+        <image href="http://teux.ru/images/track.png"/>
+      </xref></p>
+    <p>Места очень красивые, для тех кто понимает в болотах. Фотографии можно посмотреть <xref href="http://downriver.narod.ru/72/72.html" scope="external">здесь</xref>.  В окружении болота Оршинский мох до деревни Спас-на-Сози (23 км) нет возможности выйти из лодки. На участке между  деревнями Марьино и Окулово (19 км) также  затопленный лес и мало мест для стоянок.</p>
+    <photoSection phsize="large">
+      <fig otherprops="full-link">
+        <title>Значок фотокамеры — полный размер</title>
+        <image href="http://img-fotki.yandex.ru/get/9222/101174408.8/0_8eb98_57d390b4_M.jpg"/>
+      </fig>
+    </photoSection>
+    <storySection>
+      <title>Легенда</title>
+      <p>Кимры (ст. Савелово) — Кошкино -  Никитское (такси) — Лугино (пешком)  — канал через болото — р. Борозда — оз. Великое  — р. Созь — Московское море — Конаково.</p>
+    </storySection>
+  </photoBody>
+</photoFile>

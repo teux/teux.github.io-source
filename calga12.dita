@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="calga12">
+  <title>День 12-13</title>
+  <shortdesc>Дневки возле Могильных о-вов</shortdesc>
+  <photoBody>
+    <photoSection>
+      <fig>
+        <title>Провожаем Максима и Катю</title>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373517.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373518.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373519.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373521.jpg"
+               placement="break" width="192"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373522.jpg"
+               placement="break" width="192"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373523.jpg"
+               placement="break" width="192"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373524.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373525.jpg"
+               placement="break" width="192"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373526.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373527.jpg"
+               placement="break" width="192"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373528.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373529.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="192"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373531.jpg"
+               placement="break" width="251"/>
+      </fig>
+      <fig>
+        <image align="center" height="251"
+               href="http://photo.qip.ru/photo/kapsky/115208610/middle/121373533.jpg"
+               placement="break" width="192"/>
+      </fig>
+    </photoSection>
+  </photoBody>
+</photoFile>
