@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id = "id107AC400X5Z"
-    >
+    otherprops="use-disqus">
 <title>Подготовка карты в MAPC2MAPC</title>
 <shortdesc>Удобная программа для привязки и фрагментирования растровых
 карт</shortdesc>
