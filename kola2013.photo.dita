@@ -4,15 +4,15 @@
   <photoBody>
     <photoSection phsize="large">
       <fig>
-        <image href="http://img-fotki.yandex.ru/get/9299/101174408.a/0_998bf_1903d6cc_M.jpg"/>
-      </fig>
-      <fig>
+        <title>Владимир Суржиков</title>
         <image href="http://img-fotki.yandex.ru/get/6703/101174408.9/0_99874_4471bb9_M.jpg"/>
       </fig>
       <fig>
+        <title>Александр Краснов</title>
         <image href="http://img-fotki.yandex.ru/get/6703/101174408.a/0_998bd_976a59fc_M.jpg"/>
       </fig>
       <fig>
+        <title>Андрей Коперский</title>
         <image href="http://img-fotki.yandex.ru/get/9826/101174408.a/0_998be_ffe87ade_M.jpg"/>
       </fig>
     </photoSection>

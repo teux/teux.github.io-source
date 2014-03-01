@@ -87,8 +87,8 @@
       <topicref navtitle="По морю" href="kola2012.sea.dita"/>
     </chapter>
     <chapter navtitle="Восточная Лица" href="kola2013.dita" type="photoFile">
-      <topicref navtitle="Статистика" href="kola2013.stat.dita"/>
-      <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
+	  <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
+	  <topicref navtitle="Отчет" href="kola2013.story.dita"/>
     </chapter>
   </part>
   <part navtitle="Пешие" href="afoot.dita" type="topic">
