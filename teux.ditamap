@@ -90,6 +90,7 @@
 	  <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
 	  <topicref navtitle="Отчет" href="kola2013.story.dita"/>
     </chapter>
+    <chapter navtitle="Шаня" href="shana.dita" type="photoFile"/>
   </part>
   <part navtitle="Пешие" href="afoot.dita" type="topic">
     <chapter navtitle="Весенний ПВД" href="pvd180409.dita" type="photoFile"/>
