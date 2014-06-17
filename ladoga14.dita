@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="ladoga14" otherprops="use-disqus">
-  <title>Ладожское озеро (план)</title>
-  <shortdesc>Планируемый поход по Ладожскому озеру с 7 по 15 июня 2014 г.</shortdesc>
+  <title>Ладожское озеро</title>
+  <shortdesc>Поход по Ладожскому озеру с 7 по 15 июня 2014 г. </shortdesc>
   <prolog>
     <critdates>
       <created date="28.5.2014"/>
@@ -15,6 +15,7 @@
   </prolog>
   <photoBody>
     <storySection>
+      <p>Пройдено 222 км от Кузнечного на западном берегу до Олонца на восточном берегу.</p>
       <umap mapId="ladoga_9375"/>
     </storySection>
   </photoBody>
