@@ -79,8 +79,8 @@
 	<chapter navtitle="Шаня" href="shana.dita" type="photoFile"/>
 	<chapter navtitle="Московское море" href="mossea14.dita" type="photoFile"/>
 	<chapter navtitle="Онежское озеро" href="onega.dita" type="photoFile"/>
-	<chapter navtitle="Ладожское озеро" href="ladoga.dita" type="photoFile"/>
-	<chapter navtitle="Ладога (план)" href="ladoga14.dita" type="photoFile"/>
+	<chapter navtitle="Ладога '12" href="ladoga.dita" type="photoFile"/>
+	<chapter navtitle="Ладога '14" href="ladoga14.dita" type="photoFile"/>
 	<chapter navtitle="Кильдин (план)" href="kildin.dita" type="photoFile"/>
   </part>
   <part navtitle="Кольский п-ов" href="kola.dita" type="topic">
