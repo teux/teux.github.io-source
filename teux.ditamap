@@ -76,12 +76,11 @@
     <chapter navtitle="Вуокса 2012" href="vuoksa2012.dita" type="photoFile"/>
     <chapter navtitle="Поля" href="pola2012.dita" type="photoFile"/>
     <chapter navtitle="Созь" href="sozz.dita" type="photoFile"/>
-	<chapter navtitle="Шаня" href="shana.dita" type="photoFile"/>
-	<chapter navtitle="Московское море" href="mossea14.dita" type="photoFile"/>
-	<chapter navtitle="Онежское озеро" href="onega.dita" type="photoFile"/>
-	<chapter navtitle="Ладога '12" href="ladoga.dita" type="photoFile"/>
-	<chapter navtitle="Ладога '14" href="ladoga14.dita" type="photoFile"/>
-	<chapter navtitle="Кильдин (план)" href="kildin.dita" type="photoFile"/>
+    <chapter navtitle="Шаня" href="shana.dita" type="photoFile"/>
+    <chapter navtitle="Московское море" href="mossea14.dita" type="photoFile"/>
+    <chapter navtitle="Онежское озеро" href="onega.dita" type="photoFile"/>
+    <chapter navtitle="Ладога 2012" href="ladoga.dita" type="photoFile"/>
+    <chapter navtitle="Ладога 2014" href="ladoga14.dita" type="photoFile"/>
   </part>
   <part navtitle="Кольский п-ов" href="kola.dita" type="topic">
     <chapter navtitle="Стрельна" href="kola2011.dita" type="photoFile">
@@ -93,9 +92,10 @@
       <topicref navtitle="По морю" href="kola2012.sea.dita"/>
     </chapter>
     <chapter navtitle="Восточная Лица" href="kola2013.dita" type="photoFile">
-	  <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
-	  <topicref navtitle="Отчет" href="kola2013.story.dita"/>
-    </chapter>    
+      <topicref navtitle="Фотографии" href="kola2013.photo.dita"/>
+      <topicref navtitle="Отчет" href="kola2013.story.dita"/>
+    </chapter>
+    <chapter navtitle="Кильдин" href="kildin.dita" type="photoFile"/>
   </part>
   <part navtitle="Пешие" href="afoot.dita" type="topic">
     <chapter navtitle="Весенний ПВД" href="pvd180409.dita" type="photoFile"/>
