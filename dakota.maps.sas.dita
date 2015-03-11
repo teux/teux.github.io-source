@@ -42,7 +42,7 @@
 под бегунком  в левой панели инструментов. Кнопки
 под и над бегунком меняют масштаб, как и колесико мыши.</p>
         <fig>
-          <image href="Insets\dakota\sas04.gif" align="left" height="167" width="201" placement="break"/>
+          <image href="Insets/dakota/sas04.gif" align="left" height="167" width="201" placement="break"/>
         </fig>
         <note>Просмотр карты в разных масштабах позволяет понять, какая детализация доступна в выбранной базе, а также определить достаточную для конкретных целей детализацию.</note>
       </li>
@@ -82,7 +82,7 @@
         <p>Отобразится
 многофункциональный диалог.</p>
         <fig>
-          <image href="Insets\dakota\sas07.gif" align="left" placement="break"/>
+          <image href="Insets/dakota/sas07.gif" align="left" placement="break"/>
         </fig>
       </li>
       <li>
@@ -98,14 +98,14 @@
         <p>Программа будет загружать фрагменты снимка выбранной области. Ход загрузки отражается в  диалоге.</p>
         <p>По окончанию загрузки нажмите <b>Выход</b>.</p>
         <fig>
-          <image href="Insets\dakota\sas08.gif" align="left" placement="break"/>
+          <image href="Insets/dakota/sas08.gif" align="left" placement="break"/>
         </fig>
       </li>
       <li>
         <p>Снова выделите ту же прямоугольную область и в многофункциональном
 диалоге перейдите на вкладку <b>Склеить</b>.</p>
         <fig>
-          <image href="Insets\dakota\sas09.gif" align="left" placement="break"/>
+          <image href="Insets/dakota/sas09.gif" align="left" placement="break"/>
         </fig>
         <ul>
           <li>В списке <uicontrol>Результирующий формат</uicontrol> выберите «KMZ для Garmin».</li>
