@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="ladoga15" otherprops="use-disqus">
+  <title>Ладога. Дорога Жизни</title>
+  <shortdesc>Ладога 2 - 8 мая 2015 г, 230 км.</shortdesc>
+  <prolog>
+    <critdates>
+      <created date="10.4.2015"/>
+    </critdates>
+    <metadata>
+      <keywords>
+        <keyword>Ладога</keyword>
+        <keyword>Дорога жизни</keyword>
+        <keyword>байдарка</keyword>
+      </keywords>
+    </metadata>
+  </prolog>
+  <photoBody>
+    <storySection>
+      <title/>
+      <p>Юбилейный  год Великой Победы вдохновил совершить  поход в память о той войне, ее жертвах и муках наших соотечественников. Это  и тяга к Ладоге указали путь, ставший символом преодоления и надежды, беды и    непокорности блокадного Ленинграда и названный   Дорогой Жизни. По ней я и прошел в конце похода.</p>
+    </storySection>
+    <storySection>
+      <parallax href="http://umap.openstreetmap.fr/ru/map/ladoga_35209" slowdown="true">
+        <shortdesc>май 2015</shortdesc>
+        <title>Ладога</title>
+        <note>Дорога Жизни</note>
+        <image href="http://img-fotki.yandex.ru/get/2708/101174408.a/0_a9b00_3048478c_orig"/>
+      </parallax>
+    </storySection>
+  </photoBody>
+</photoFile>
