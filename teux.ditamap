@@ -127,6 +127,7 @@
     </chapter>
   </part>
   <part navtitle="Прочие" href="camping.dita" type="topic">
+    <chapter href="wish.dita" navtitle="Желания" type="photoFile"/>
     <chapter navtitle="Кенозерский парк" href="knp.dita" type="photoFile">
       <topicref navtitle="Охотничья заимка" href="lekshmozero.dita" type="photoFile"/>
       <topicref navtitle="Кенозеро" href="kenozero.dita" type="photoFile"/>
