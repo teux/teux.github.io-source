@@ -97,7 +97,9 @@
       <topicref navtitle="Отчет" href="kola2013.story.dita"/>
     </chapter>
     <chapter navtitle="Кильдин" href="kildin.dita" type="photoFile"/>
-    <chapter navtitle="Рыбачий" href="rybachiy.dita" type="photoFile"/>
+    <chapter navtitle="Рыбачий" href="rybachiy.dita" type="photoFile">
+      <topicref navtitle="Фотографии" href="rybachiy.photo.dita"/>
+    </chapter>
   </part>
   <part navtitle="Пешие" href="afoot.dita" type="topic">
     <chapter navtitle="Весенний ПВД" href="pvd180409.dita" type="photoFile"/>

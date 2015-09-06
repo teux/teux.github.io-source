@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- This document was created with Syntext Serna Free. --><photoFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa3="http://dita.oasis-open.org/architecture/2005/" xsi:noNamespaceSchemaLocation="urn:teux:names:specialization:dita:xsd:photo.xsd" id="rybachiy" otherprops="use-disqus">
-  <title>Рыбачий (план)</title>
-  <shortdesc>Планируемый поход вокруг полуострова Рыбачий, Мурманская обл.</shortdesc>
+  <title>Рыбачий</title>
+  <shortdesc>По Баренцеву морю вокруг п-ова Рыбачий с 3 по 14 августа 2015 г</shortdesc>
   <prolog>
     <critdates>
-      <created date="28.3.2015"/>
+      <created date="20.8.2015"/>
     </critdates>
     <metadata>
       <keywords>
@@ -14,36 +14,68 @@
     </metadata>
   </prolog>
   <photoBody>
-    <storySection>
-      <title>Общая информация</title>
-      <ul>
-        <li>С 31 июля по 16 августа. Выезд в пятницу 31 июля вечером.</li>
-        <li>16 дней включая дорогу до Мурманска и обратно. 12 ходовых дней, 2 дневки.</li>
-        <li>Маршрут 150 км. Средне в день 12.5 км. В действительности разовые переход могут быть до 15 км, дневные — до 30 км с отдыхом на следующий день.</li>
-        <li>Байдарки с емкостями непотопляемости (4.5 км/ч - крейсерская скорость).</li>
-        <li>Сложность средняя. Хотя бы у одного в экипаже желателен опыт походов по морю.</li>
-        <li>Опасность выше средней: холодное море, скалы, низкая плотность населения. Максимальная удаленность от берега - 500 м. </li>
-        <li>Опасные звери: медведь, росомаха (обычно не представляют угрозы для человека).</li>
-        <li>Тундровая растительность - в основном мхи, трава, редкий кустарник, нет лесов.</li>
-        <li>Аварийные выходы: грунтовые дороги.</li>
-        <li>Режим уведомительный. Погранзона отсутствует, разрешение не требуется.</li>
-        <li>Занятия на маршруте: морская и речная рыбалка, сбор грибов-ягод, осмотр природных достопримечательностей, геокешинг. </li>
-      </ul>
-    </storySection>
-    <storySection>
-      <title>Заброска и выброска</title>
-      <p>Из Мурманска до полуострова на заказном микроавтобусе. По ценам прошлого года трансфер   в одну сторону составлял 11 тыс. руб. В этом году надо ждать не меньше 15 тыс. руб.</p>
-      <p>Оптимальное количество участников - 10-11 чел.  Трансфер в обе стороны получится ориентировочно 3 тыс на чел. Стоимость раскладки на человека - 4-5 тыс. руб. Стоимость плацкарта Москва-Мурманск от 3200 до 4700 руб. </p>
-    </storySection>
+    <photoSection phsize="xlarge">
+      <fig>
+        <title>Маяк в бухте Большое Озерко</title>
+        <image href="http://img-fotki.yandex.ru/get/15552/101174408.c/0_ae082_3e36a89b_M.jpg"/>
+      </fig>
+    </photoSection>
+    <photoSection phsize="middle">
+      <fig>
+        <title>Мыс Кекурский</title>
+        <image href="http://img-fotki.yandex.ru/get/4103/101174408.b/0_ae047_cab534b7_M.jpg"/>
+      </fig>
+      <fig>
+        <title>Мыс Городецкий</title>
+        <image href="http://img-fotki.yandex.ru/get/9829/101174408.c/0_ae078_780e807_M.jpg"/>
+      </fig>
+    </photoSection>
     <storySection>
       <parallax href="http://umap.openstreetmap.fr/en/map/rybachiy_25937" slowdown="true">
-        <shortdesc>август 2015</shortdesc>
+        <shortdesc>Баренцево море</shortdesc>
         <title>Рыбачий</title>
-        <note>план похода</note>
-        <image href="http://img-fotki.yandex.ru/get/15558/101174408.a/0_a893d_74495c29_orig"/>
+        <note>карта и трек</note>
+        <image href="http://teux.ru/Insets/maps/rybachiy.jpg"/>
       </parallax>
-      <p/>
+      <p>Щелчок по карте откроет ее для просмотра. Также можно скачать <xref href="http://teux.ru/Insets/gpx/rybachiy.zip" scope="external">детальный трек</xref> в формате GPX.</p>
     </storySection>
-    <storySection/>
+    <photoSection>
+      <fig>
+        <image href="http://img-fotki.yandex.ru/get/5314/101174408.c/0_ae094_66669963_M.jpg"/>
+      </fig>
+      <fig>
+        <image href="http://img-fotki.yandex.ru/get/6613/101174408.c/0_ae095_99d2de4e_M.jpg"/>
+      </fig>
+    </photoSection>
+    <photoSection phsize="small">
+      <fig>
+        <image href="http://img-fotki.yandex.ru/get/6841/101174408.c/0_ae0a1_de5c14bc_M.jpg"/>
+      </fig>
+      <fig>
+        <image href="http://img-fotki.yandex.ru/get/4600/101174408.c/0_ae08f_de80464c_M.jpg"/>
+      </fig>
+      <fig>
+        <image href="http://img-fotki.yandex.ru/get/4422/101174408.c/0_ae09a_2910f43f_M.jpg"/>
+      </fig>
+    </photoSection>
+    <storySection>
+      <parallax href="/rybachiy.photo.html" slowdown="true" height="200">
+        <shortdesc>полуостров</shortdesc>
+        <title>Рыбачий</title>
+        <note>фотографии</note>
+        <image href="http://img-fotki.yandex.ru/get/15567/101174408.d/0_ae370_a496666f_orig"/>
+      </parallax>
+    </storySection>
+    <storySection>
+      <title>Описание</title>
+      <p>Расстояние вокруг полуострова по воде ~160км. Описание в разработке...</p>
+      <floatFig>
+        <title>Вика и Света – &quot;мурманские валькирии&quot;</title>
+        <image href="http://img-fotki.yandex.ru/get/4522/101174408.b/0_ae053_fa0b0d7e_M.jpg"/>
+      </floatFig>
+      <p>Эти замечательные девушки – Вика и Света – доставили нас на Рыбачий и обратно. Их не  остановила разбитая дорога, перевал, проколотое колесо, сломавшаяся рессора, потому я назвал их валькириями.</p>
+      <p>Мы нашли их через мурманского жителя Диму. Он оказывает транспортные услуги туристическим группам, 8 (921) 034-25-55.</p>
+      <clearFloat/>
+    </storySection>
   </photoBody>
 </photoFile>
