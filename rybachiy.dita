@@ -59,11 +59,11 @@
       </fig>
     </photoSection>
     <storySection>
-      <parallax href="/rybachiy.photo.html" slowdown="true" height="200">
+      <parallax href="/rybachiy.photo.html" slowdown="true">
         <shortdesc>полуостров</shortdesc>
         <title>Рыбачий</title>
         <note>фотографии</note>
-        <image href="http://img-fotki.yandex.ru/get/15567/101174408.d/0_ae370_a496666f_orig"/>
+        <image href="http://img-fotki.yandex.ru/get/3200/101174408.d/0_b0cb0_c09d1d8d_orig"/>
       </parallax>
     </storySection>
     <storySection>
