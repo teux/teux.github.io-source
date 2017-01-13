@@ -107,10 +107,9 @@
     <chapter navtitle="ПВД “Первый снег”" href="pvd071109.dita" type="photoFile"/>
     <chapter navtitle="Ночной ПВД" href="pvd141109.dita" type="photoFile"/>
     <chapter navtitle="ММБ 2010" href="mmb10.dita" type="photoFile"/>
-    <chapter navtitle="Камчатка (план)" href="kamchatka.dita" type="photoFile">
-	<topicref navtitle="Пешеходные маршруты" href="kamchatka-afoot.dita">
-		<topicref navtitle="1. Соп. Горелая и Мутновская" href="kamchatka-afoot-1.dita"/>
-	</topicref>
+    <chapter navtitle="Камчатка 2016" href="kamchatka.dita" type="photoFile" />
+    <chapter navtitle="Маршруты камчатки" href="kamchatka-afoot.dita">
+      <topicref navtitle="1. Соп. Горелая и Мутновская" href="kamchatka-afoot-1.dita"/>
     </chapter>
   </part>
   <part navtitle="Лыжные" href="skiing.dita" type="topic">

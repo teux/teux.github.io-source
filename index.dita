@@ -9,17 +9,20 @@
 <!--<section>
         <title>Планируемый поход</title>
         <p>р. Шаня 29-30 марта 2014 г. Обсуждаем в <xref href="shana.dita#shana">каментах</xref></p>
-    </section>-->    <storySection>
-      <parallax href="kamchatka.html" slowdown="true">
-        <shortdesc>Планируемый поход</shortdesc>
-        <title>Камчатка</title>
-        <note>2016, июль</note>
-        <image href="http://img-fotki.yandex.ru/get/6415/101174408.d/0_b0c91_4da8e8dd_orig"/>
-      </parallax>
-    </storySection>
-    <section>
+    </section>--><!--<storySection>
+  <parallax href="kamchatka.html" slowdown="true">
+    <shortdesc>Планируемый поход</shortdesc>
+    <title>Камчатка</title>
+    <note>2016, июль</note>
+    <image href="http://img-fotki.yandex.ru/get/6415/101174408.d/0_b0c91_4da8e8dd_orig"/>
+  </parallax>
+</storySection>-->    <section>
       <title>Прошедшие походы</title>
     </section>
+    <expandSection>
+      <title>Камчатка</title>
+      <p>Начал разбирать фотографии и писать комментарии на странице <xref href="kamchatka.html" scope="external">Камчатка</xref>...</p>
+    </expandSection>
     <expandSection>
       <title>Вост. Лица (Кольский п-ов)</title>
       <p>Начало августа на Кольском запомнилось жарой, крупной голубикой, кумжей, бирюзовой водой в Баренцевом море.
